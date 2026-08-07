@@ -12,7 +12,7 @@ I’m a software engineer who enjoys building reliable backend systems and clean
 💼 **Work History**  
 - **Babylist** (Feb 2026 - Present) - Software Engineer III  
 - **RBC Capital Markets** (Jul 2020 – Feb 2026)  
-  - **Funding & Liquidity Technology** — Lead Developer (Mar 2024 – Present)  
+  - **Funding & Liquidity Technology** — Lead Developer (Mar 2024 – Feb 2026)  
   - **Risk Modernization** — Senior Developer (Jan 2022 – Mar 2024)  
   - **Risk Services** — Technical Systems Analyst (Jul 2020 – Dec 2021)  
 - **Gorilla Group** — Associate Developer (Jul 2019 – Feb 2020)
